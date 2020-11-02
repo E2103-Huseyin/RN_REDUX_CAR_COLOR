@@ -11,6 +11,7 @@ import reducer from './context/reducer';
 
 import Component_A from './pages/Component_A';
 import Component_B from './pages/Component_B';
+//import proudctData from './product_data.json'
 
 const store = createStore(reducer, initialState);
 

@@ -1,5 +1,5 @@
 const initialState = {
-    counter : 0
+    counter : 7
 };
 
 export default initialState;

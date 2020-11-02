@@ -1,0 +1,60 @@
+[
+    
+    {
+        "id": 0,
+        "title": "X1",
+        "imgURL": "C:/Users/Pc/Desktop/CLARUSWAY/RNNav/src/images/X1_2.png",
+        "price": "ab 32.265,55 €",
+        "inStock": true
+    },
+    {
+        "id": 1,
+        "title": "X1",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X1/2019/inform/jcr:content/par/line_8f72/items/lineitem_e709/image2/image.transform/linemosaic685/image.1558529107240.jpg",
+        "price": "ab 32.265,55 €",
+        "inStock": "BMW X1 xDrive20i:Kraftstoffverbrauch in l/100 km (kombiniert): 6,7-6,3 CO2-Emissionen in g/km (kombiniert): 153-144"
+    },
+    {
+        "id": 2,
+        "title": "X2",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X2/2020/bmw-x2-models-equipment/jcr:content/par/line_6ee/items/lineitem/image1/image.transform/linemosaic685/image.1590501710767.jpg",
+        "price": "ab 33.581,51 €",
+        "inStock": "BMW X2 xDrive20i: Kraftstoffverbrauch in l/100 km (kombiniert): 6,6-6,3; CO2-Emissionen in g/km (kombiniert): 152-143"
+    },
+    {
+        "id": 3,
+        "title": "X3",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X3/2019/bmw-x3-informieren/jcr:content/par/line_f095/items/lineitem_fced/image1/image.transform/linemosaic685/image.1550682149717.jpg",
+        "price": "ab 45.132,77 €",
+        "inStock": "BMW iX3:Stromverbrauch (NEFZ) in kWh/100 km: 17,8-17,5 Elektrische Reichweite (WLTP) in km: 450-458"
+    },
+    {
+        "id": 4,
+        "title": "X4",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X4/2019/bmw-x4-models-equipment/jcr:content/par/line_7bdf/items/lineitem_fc35/image2/image.transform/linemosaic685/image.1575446509566.jpg",
+        "price": "ab 50.104,20 € ",
+        "inStock": "BMW X4 M40i: Kraftstoffverbrauch in l/100 km (kombiniert): 8,1-7,7; CO2-Emissionen in g/km (kombiniert): 185-177"
+    },
+    {
+        "id": 5,
+        "title": "X5",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X5/2019/bmw-x5-highlights1/jcr:content/par/line/items/lineitem_7fe0/image1/image.transform/linemosaic685/image.1575625702824.jpg",
+        "price": "ab 65.018,49 €",
+        "inStock": "BMW X5 xDrive40i: Kraftstoffverbrauch in l/100 km (kombiniert): 8,4-7,7; CO2-Emissionen in g/km (kombiniert): 192-176"
+    },
+    {
+        "id": 6,
+        "title": "X6",
+        "imgURL": "https://www.bmw.de/content/bmw/marketDE/bmw_de/de_DE/all-models/x-series/X6/2019/bmw-x6-inform/jcr:content/par/line/items/lineitem_1690902549/image2/image.transform/linemosaic685/image.1561121053732.jpg",
+        "price": "ab 74.473,95 €",
+        "inStock": "BMW X6 M50i: Kraftstoffverbrauch in l/100 km (kombiniert): 10,7-10,4 CO2-Emissionen in g/km (kombiniert): 243-238"
+    },
+    {
+        "id": 7,
+        "title": "X7",
+        "imgURL": "https://www.bmw.de/content/dam/bmw/common/all-models/m-series/x7-m50i-m50d/2019/inform/G07_1120_finedata_A0258569_ret_Badge_M40i_1680x756.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1601372559204.jpg",
+        "price": "ab 112.978,15 €",
+        "inStock": "BMW X7 M50i: Kraftstoffverbrauch in l/100 km (kombiniert): 11,0-10,9; CO2-Emissionen in g/km (kombiniert): 251-248"
+    }
+    
+]
